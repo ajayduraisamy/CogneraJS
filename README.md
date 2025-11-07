@@ -76,6 +76,14 @@ Build Tools	Vite, esbuild
 Testing	Jest
 Future Support	WebGPU, WebAssembly
 
+
+# Installation And Run 
+```bash
+git clone git remote add origin https://github.com/ajayduraisamy/CogneraJS.git
+```
+``` bash
+cd CogneraJS
+```
 ## Run the React demo
 1. npm install
 2. npm run dev
