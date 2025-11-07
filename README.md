@@ -1,5 +1,4 @@
-# CogneraJS (starter)
-
+# CogneraJS 
 
 
 # CogneraJS — The Cognitive Era in JavaScript
